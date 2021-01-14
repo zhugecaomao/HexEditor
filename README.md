@@ -1,2 +1,3 @@
 # HexEditor
  
+MPHexEditor VCL Component
